@@ -1,0 +1,2085 @@
+fileFormatVersion: 2
+guid: 8174ec5f84437ec418ad46da890f1112
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_crafty_bot__x1_expand_png_1354839511_0
+    21300002: npc_crafty_bot__x1_expand_png_1354839511_1
+    21300004: npc_crafty_bot__x1_expand_png_1354839511_2
+    21300006: npc_crafty_bot__x1_expand_png_1354839511_3
+    21300008: npc_crafty_bot__x1_expand_png_1354839511_4
+    21300010: npc_crafty_bot__x1_expand_png_1354839511_5
+    21300012: npc_crafty_bot__x1_expand_png_1354839511_6
+    21300014: npc_crafty_bot__x1_expand_png_1354839511_7
+    21300016: npc_crafty_bot__x1_expand_png_1354839511_8
+    21300018: npc_crafty_bot__x1_expand_png_1354839511_9
+    21300020: npc_crafty_bot__x1_expand_png_1354839511_10
+    21300022: npc_crafty_bot__x1_expand_png_1354839511_11
+    21300024: npc_crafty_bot__x1_expand_png_1354839511_12
+    21300026: npc_crafty_bot__x1_expand_png_1354839511_13
+    21300028: npc_crafty_bot__x1_expand_png_1354839511_14
+    21300030: npc_crafty_bot__x1_expand_png_1354839511_15
+    21300032: npc_crafty_bot__x1_expand_png_1354839511_16
+    21300034: npc_crafty_bot__x1_expand_png_1354839511_17
+    21300036: npc_crafty_bot__x1_expand_png_1354839511_18
+    21300038: npc_crafty_bot__x1_expand_png_1354839511_19
+    21300040: npc_crafty_bot__x1_expand_png_1354839511_20
+    21300042: npc_crafty_bot__x1_expand_png_1354839511_21
+    21300044: npc_crafty_bot__x1_expand_png_1354839511_22
+    21300046: npc_crafty_bot__x1_expand_png_1354839511_23
+    21300048: npc_crafty_bot__x1_expand_png_1354839511_24
+    21300050: npc_crafty_bot__x1_expand_png_1354839511_25
+    21300052: npc_crafty_bot__x1_expand_png_1354839511_26
+    21300054: npc_crafty_bot__x1_expand_png_1354839511_27
+    21300056: npc_crafty_bot__x1_expand_png_1354839511_28
+    21300058: npc_crafty_bot__x1_expand_png_1354839511_29
+    21300060: npc_crafty_bot__x1_expand_png_1354839511_30
+    21300062: npc_crafty_bot__x1_expand_png_1354839511_31
+    21300064: npc_crafty_bot__x1_expand_png_1354839511_32
+    21300066: npc_crafty_bot__x1_expand_png_1354839511_33
+    21300068: npc_crafty_bot__x1_expand_png_1354839511_34
+    21300070: npc_crafty_bot__x1_expand_png_1354839511_35
+    21300072: npc_crafty_bot__x1_expand_png_1354839511_36
+    21300074: npc_crafty_bot__x1_expand_png_1354839511_37
+    21300076: npc_crafty_bot__x1_expand_png_1354839511_38
+    21300078: npc_crafty_bot__x1_expand_png_1354839511_39
+    21300080: npc_crafty_bot__x1_expand_png_1354839511_40
+    21300082: npc_crafty_bot__x1_expand_png_1354839511_41
+    21300084: npc_crafty_bot__x1_expand_png_1354839511_42
+    21300086: npc_crafty_bot__x1_expand_png_1354839511_43
+    21300088: npc_crafty_bot__x1_expand_png_1354839511_44
+    21300090: npc_crafty_bot__x1_expand_png_1354839511_45
+    21300092: npc_crafty_bot__x1_expand_png_1354839511_46
+    21300094: npc_crafty_bot__x1_expand_png_1354839511_47
+    21300096: npc_crafty_bot__x1_expand_png_1354839511_48
+    21300098: npc_crafty_bot__x1_expand_png_1354839511_49
+    21300100: npc_crafty_bot__x1_expand_png_1354839511_50
+    21300102: npc_crafty_bot__x1_expand_png_1354839511_51
+    21300104: npc_crafty_bot__x1_expand_png_1354839511_52
+    21300106: npc_crafty_bot__x1_expand_png_1354839511_53
+    21300108: npc_crafty_bot__x1_expand_png_1354839511_54
+    21300110: npc_crafty_bot__x1_expand_png_1354839511_55
+    21300112: npc_crafty_bot__x1_expand_png_1354839511_56
+    21300114: npc_crafty_bot__x1_expand_png_1354839511_57
+    21300116: npc_crafty_bot__x1_expand_png_1354839511_58
+    21300118: npc_crafty_bot__x1_expand_png_1354839511_59
+    21300120: npc_crafty_bot__x1_expand_png_1354839511_60
+    21300122: npc_crafty_bot__x1_expand_png_1354839511_61
+    21300124: npc_crafty_bot__x1_expand_png_1354839511_62
+    21300126: npc_crafty_bot__x1_expand_png_1354839511_63
+    21300128: npc_crafty_bot__x1_expand_png_1354839511_64
+    21300130: npc_crafty_bot__x1_expand_png_1354839511_65
+    21300132: npc_crafty_bot__x1_expand_png_1354839511_66
+    21300134: npc_crafty_bot__x1_expand_png_1354839511_67
+    21300136: npc_crafty_bot__x1_expand_png_1354839511_68
+    21300138: npc_crafty_bot__x1_expand_png_1354839511_69
+    21300140: npc_crafty_bot__x1_expand_png_1354839511_70
+    21300142: npc_crafty_bot__x1_expand_png_1354839511_71
+    21300144: npc_crafty_bot__x1_expand_png_1354839511_72
+    21300146: npc_crafty_bot__x1_expand_png_1354839511_73
+    21300148: npc_crafty_bot__x1_expand_png_1354839511_74
+    21300150: npc_crafty_bot__x1_expand_png_1354839511_75
+    21300152: npc_crafty_bot__x1_expand_png_1354839511_76
+    21300154: npc_crafty_bot__x1_expand_png_1354839511_77
+    21300156: npc_crafty_bot__x1_expand_png_1354839511_78
+    21300158: npc_crafty_bot__x1_expand_png_1354839511_79
+    21300160: npc_crafty_bot__x1_expand_png_1354839511_80
+    21300162: npc_crafty_bot__x1_expand_png_1354839511_81
+    21300164: npc_crafty_bot__x1_expand_png_1354839511_82
+    21300166: npc_crafty_bot__x1_expand_png_1354839511_83
+    21300168: npc_crafty_bot__x1_expand_png_1354839511_84
+    21300170: npc_crafty_bot__x1_expand_png_1354839511_85
+    21300172: npc_crafty_bot__x1_expand_png_1354839511_86
+    21300174: npc_crafty_bot__x1_expand_png_1354839511_87
+    21300176: npc_crafty_bot__x1_expand_png_1354839511_88
+    21300178: npc_crafty_bot__x1_expand_png_1354839511_89
+    21300180: npc_crafty_bot__x1_expand_png_1354839511_90
+    21300182: npc_crafty_bot__x1_expand_png_1354839511_91
+    21300184: npc_crafty_bot__x1_expand_png_1354839511_92
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5bb9cbe357f84fa218879d304bba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dd2c9ba4fb2a246997b94bbb5c5c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d1bdde8bc4464aa113d164f52475d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85992917812375488f47f1de9dff087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f71e5973dcb44291bbcb195fc929e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3994e3b13a8242b75f38486a0464f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_6
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26706ed2f8553044d97e847a2a0e15e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1681
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8d93daa0579274cbce5e54ac1b1ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1681
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd5c9b399fc5d4da67afdad302517e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0226f4683c4722468fe46e5800575a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5306791297aec4eb8e5a3f66d9a282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374fa248a5c95245a88ffae17588a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7494fb7493c7c44dae432c281723de9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a69b9570b59224eb9759c65ee59a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b111df6612d8a48bb1fe6eef6f31e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f10f37689b4f4a9e3ff46f66d35f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec278473b790ee2408d36e01cbab1693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14243f6e712edd24baa17c70306dcd62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154b88dd9dc56b459780179dcf3d67c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac250211498bc4e9828b573c1cea4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1540
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ea2483940c7c4583b5e36b771d95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1401
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c120fa78330b0144a87184e978519a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159f18fa6c5b0f4aa4fc10d48718af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1401
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a00571a542fd04ca4ec101c4738053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1400
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5b96d7c04286b45ac595eb5283228f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1401
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3da1edcfa5a114797de0ac4f0e36e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1400
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f3de753cd86de429a43495ea3961ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_27
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1401
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834b74c7a377144990d873b609ded09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1260
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c013babe14ac774b943954b4a498dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1261
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866a7f00d94c5741a3c286dbac09bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1260
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837f69b540cad147a87a411cf33feb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1261
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08f6c73cf0b6af408bc0f173400371e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_32
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1260
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b01dd380743d34bb30ef0ded1a2820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_33
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1261
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03f6b48cf9d1849bdfd8ef8835f5a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_34
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1260
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdba82f80ff5934c8b24da791729e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1121
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a50780cca4d32942b51de556d317e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1121
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d71c1fed01494188626e02aa30999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1121
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab1e2c38ff4d44aa88fb0a07350a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_38
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1121
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568076b168968f748bce005e602922ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1120
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b31d19cc419e1249950b9d1a0f1dfa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_40
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1120
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609d64f47e4bd94abf2fa421fb50b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_41
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1120
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2555317750984fa9089f0d1d722e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 980
+        width: 119
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a6f50312557044a4d74f493ce0f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 981
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1304549093674fe4caadc12e5d5e4e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 982
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87f9a53fe09834dbce213d9328520b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 985
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c9efd97536da45b2debe1db392076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_46
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 985
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ad39518735b645871470ef835f2a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_47
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 985
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8245b009e7ac40340a8e672f53910505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_48
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 985
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb5537645a43249ad808ee161a0e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 845
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e16f97bd98c242a31c23d0ddbd4e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 845
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39551dcc924add9409b62c54edb7843b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 845
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed70aa38dd48442b87d186335d0d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 845
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac90e60cde346f4d8a126c2decc1859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_53
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 845
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e00ef388fe1349ac38f5170d24e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_54
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 845
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e477fce344fd409d98e99b189bac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 845
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300984bbf38427843802ebba3cecccc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 705
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ceab101827484c9c2b5d7148f6367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 705
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8c2071516a304cad7b9725864e763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 705
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a84e925484c6439a438b3ad58b8fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0573094bd3a40ec4192d7b6c1648f645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_60
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d63940f76021c4a9b63d669b643852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6e998b3dc470c42a725e4783f19466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_62
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e16dbacb5e0449995f4648cf81fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814987ccba63fa45a548f8c479e8a2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c54ca7c50ebbd47bd125f2221640c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_65
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1997cc1da6cb1c4081c92c7367396d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7cca8e76e439343aea6303246ca777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_67
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7cd660eb0e22b43b916069be29fe7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_68
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27e127b20986e41a23335f4d0564d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_69
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 565
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91035d0aac909104690a038464a9ba6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 425
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f7d32d63ee5a747b45ffdb3921a28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 425
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f708ae6b30c30946aa6e3205c98eccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 425
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f631bf2e88b54cbc7b0e642bb45c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_73
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 425
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71a7c4b44f4aa4eaee859f4f1d75ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 425
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a806c692338ba4e81e6cf2911d2d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_75
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 425
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d50216959cf4544b52c21db882d6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_76
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 425
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eb5498b65d4e64e82bd14ed31d158d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 285
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e1fbcb1bbf51438bb19aced554b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6008585dbc7a34c806925b85769d08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_79
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 285
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7052cdede6baa8c488cc8c35b6022115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_80
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 285
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fed015fffca844dab638297f02d6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_81
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 288
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e409654407885544abf8788bd6134e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_82
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 289
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255b0f95c1c51d34886b91acba941e39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_83
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 290
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62a34a76edbd34c8f512192ce37eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 149
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd30d1f93e2504aaed6af8cc4a6057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 148
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d97995d2518b46a44a3fb9667d5be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_86
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d39f85e313274098395306998abce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_87
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 145
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8835cb3ac8e064346854fe1ddefb7592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_88
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 145
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995281aaccc71748a4fc65a207df1b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_89
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 145
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11552476925ef4fbe7d4798de0e95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_90
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 145
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0488cd9e579f6d45bb1acaf745ac32c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_91
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358cdb98a44fc24a9bd1895f926af8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_expand_png_1354839511_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89c12d0ef3e6004fbe73c6cdd2f7e10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1c47ec10e9d0ea43936a4945f960609
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
